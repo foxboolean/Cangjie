@@ -1,0 +1,2 @@
+# Cangjie
+Learn Clean Code 
