@@ -1,2 +1,3 @@
 # Cangjie
-Learn Clean Code 
+
+Want to become a word-maker Cangjie
